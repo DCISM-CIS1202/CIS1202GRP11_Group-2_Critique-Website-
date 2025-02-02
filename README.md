@@ -2,7 +2,7 @@
 
 ### 🏛 University of San Carlos - CIS1202GRP11 Group 2
 
-**IS-MISSED** is a project where we critically analyzed the official **ISMIS** website of the University of San Carlos. Our evaluation focused on its **HTML structure, CSS implementation, usability, accessibility, and areas for improvement**. This critique aims to provide constructive recommendations to enhance the overall user experience.
+**IS-MISSED?** is a project where we critically analyzed the official **ISMIS** website of the University of San Carlos. Our evaluation focused on its **HTML structure, CSS implementation, usability, accessibility, and recomendations**. This critique aims to provide constructive recommendations to enhance the overall user experience.
 
 ---
 
