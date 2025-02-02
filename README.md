@@ -28,7 +28,6 @@
 - **Florentino**
 - **Magbanua**
 
-We are dedicated to enhancing web accessibility, usability, and structure through our critique of **ISMIS**.
 
 ---
 
